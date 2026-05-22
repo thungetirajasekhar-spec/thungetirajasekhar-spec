@@ -1,5 +1,5 @@
-## 
-Hi there 👋 I'm **Thungeti Rajasekhar**
+
+##Hi there 👋 I'm **Thungeti Rajasekhar**
 
 🎓 B.Tech Student at Annamacharya Institute of Science and Technology
 💻 Passionate about Machine Learning, Data Analytics, and Web Development
