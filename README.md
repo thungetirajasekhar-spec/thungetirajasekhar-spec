@@ -1,5 +1,5 @@
 ## 
-Hi there 👋 I'm Thungeti Rajasekhar
+Hi there 👋 I'm **Thungeti Rajasekhar**
 
 🎓 B.Tech Student at Annamacharya Institute of Science and Technology
 💻 Passionate about Machine Learning, Data Analytics, and Web Development
@@ -7,7 +7,7 @@ Hi there 👋 I'm Thungeti Rajasekhar
 🚀 Building projects that combine creativity with technology
 🤖 Interested in AI, Automation, and Intelligent Systems
 
-🌟 About Me
+**🌟 About Me**
 
 I enjoy turning ideas into real-world projects through code and design.
 My interests include:
@@ -19,12 +19,12 @@ Automation & Smart Applications
 
 I believe in continuous learning, strategic thinking, and building impactful solutions.
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 Languages: Python, Java, HTML, CSS, JavaScript
 Tools: Power BI, Tableau, Git, GitHub
 Concepts: Machine Learning, Data Analytics, Web Development
-📌 Projects
 
+**📌 Projects**
 🔹 Web Development Projects
 🔹 Chatbot Creation
 🔹 Machine Learning Applications
